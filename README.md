@@ -9,4 +9,6 @@ In this project, get ready to...
 
 ☁️ Deploy your containerized application to AWS Elastic Beanstalk and access it live on the web.
 
+![architecture](architecture-complete.png)
+
 
